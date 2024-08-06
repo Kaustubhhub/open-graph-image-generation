@@ -8,7 +8,7 @@ export const SearchBar = ({ imagesvg, placeholder }: { imagesvg?: ReactNode, pla
             </div>
             <input
                 type="search"
-                className="block text-white bg-black rounded-full w-full p-2 ps-10 text-sm border border-gray-300"
+                className="block text-white bg-[#1f2a3d] rounded-full w-full p-2 ps-10 text-sm border border-gray-300"
                 placeholder={placeholder}
             />
         </div>
